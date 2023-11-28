@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.js": "/landing/static/js/main.f8b3a4c8.js",
-    "main.css": "/landing/static/css/main.8e28b561.css",
+    "main.css": "/landing/static/css/main.0c55edb4.css",
+    "main.js": "/landing/static/js/main.4719480a.js",
     "static/js/787.b643a9cc.chunk.js": "/landing/static/js/787.b643a9cc.chunk.js",
+    "static/media/Segunda.jpg": "/landing/static/media/Segunda.d550e08c98edea941e55.jpg",
+    "static/media/Social 1_page-0001.jpg": "/landing/static/media/Social 1_page-0001.bcfa11d208834dd11245.jpg",
+    "static/media/B.jpg": "/landing/static/media/B.78f71593bfdd452d298c.jpg",
+    "static/media/Nutrition.jpg": "/landing/static/media/Nutrition.9d17961150280b64c310.jpg",
+    "static/media/Exercise.jpg": "/landing/static/media/Exercise.b1b37224030863909d0e.jpg",
+    "static/media/A.jpg": "/landing/static/media/A.82d9d91ff7d4f5346a88.jpg",
     "index.html": "/landing/index.html",
-    "main.f8b3a4c8.js.map": "/landing/static/js/main.f8b3a4c8.js.map",
-    "main.8e28b561.css.map": "/landing/static/css/main.8e28b561.css.map",
+    "main.0c55edb4.css.map": "/landing/static/css/main.0c55edb4.css.map",
+    "main.4719480a.js.map": "/landing/static/js/main.4719480a.js.map",
     "787.b643a9cc.chunk.js.map": "/landing/static/js/787.b643a9cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f8b3a4c8.js",
-    "static/css/main.8e28b561.css"
+    "static/css/main.0c55edb4.css",
+    "static/js/main.4719480a.js"
   ]
 }
