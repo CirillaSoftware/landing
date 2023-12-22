@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing/static/css/main.79f6cb23.css",
-    "main.js": "/landing/static/js/main.2476d5fe.js",
+    "main.css": "/landing/static/css/main.b89d2b72.css",
+    "main.js": "/landing/static/js/main.50608b26.js",
     "static/js/787.b643a9cc.chunk.js": "/landing/static/js/787.b643a9cc.chunk.js",
     "static/media/about-background-image.png": "/landing/static/media/about-background-image.d0e45280dd69dec26ee6.png",
     "static/media/amoledbackground.jpg": "/landing/static/media/amoledbackground.6c435a33a50b030bd5bd.jpg",
@@ -16,12 +16,12 @@
     "static/media/home-banner-background.png": "/landing/static/media/home-banner-background.585600da7ff85661555e.png",
     "static/media/Nutrition-Section.png": "/landing/static/media/Nutrition-Section.a3460d380d57e2379beb.png",
     "index.html": "/landing/index.html",
-    "main.79f6cb23.css.map": "/landing/static/css/main.79f6cb23.css.map",
-    "main.2476d5fe.js.map": "/landing/static/js/main.2476d5fe.js.map",
+    "main.b89d2b72.css.map": "/landing/static/css/main.b89d2b72.css.map",
+    "main.50608b26.js.map": "/landing/static/js/main.50608b26.js.map",
     "787.b643a9cc.chunk.js.map": "/landing/static/js/787.b643a9cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f6cb23.css",
-    "static/js/main.2476d5fe.js"
+    "static/css/main.b89d2b72.css",
+    "static/js/main.50608b26.js"
   ]
 }
