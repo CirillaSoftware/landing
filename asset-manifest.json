@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/landing/static/css/main.0c55edb4.css",
-    "main.js": "/landing/static/js/main.4719480a.js",
+    "main.css": "/landing/static/css/main.d4bf0bf1.css",
+    "main.js": "/landing/static/js/main.2476d5fe.js",
     "static/js/787.b643a9cc.chunk.js": "/landing/static/js/787.b643a9cc.chunk.js",
-    "static/media/Segunda.jpg": "/landing/static/media/Segunda.d550e08c98edea941e55.jpg",
-    "static/media/Social 1_page-0001.jpg": "/landing/static/media/Social 1_page-0001.bcfa11d208834dd11245.jpg",
-    "static/media/B.jpg": "/landing/static/media/B.78f71593bfdd452d298c.jpg",
-    "static/media/Nutrition.jpg": "/landing/static/media/Nutrition.9d17961150280b64c310.jpg",
-    "static/media/Exercise.jpg": "/landing/static/media/Exercise.b1b37224030863909d0e.jpg",
-    "static/media/A.jpg": "/landing/static/media/A.82d9d91ff7d4f5346a88.jpg",
+    "static/media/about-background-image.png": "/landing/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/amoledbackground.jpg": "/landing/static/media/amoledbackground.6c435a33a50b030bd5bd.jpg",
+    "static/media/wheat.png": "/landing/static/media/wheat.3bbc9ad2ce70eb0c38d9.png",
+    "static/media/banner-cirilla.png": "/landing/static/media/banner-cirilla.5a343bd87088d39e3fce.png",
+    "static/media/choose-image.png": "/landing/static/media/choose-image.aaaba49b8c3e0ab7bec6.png",
+    "static/media/arrowRight.png": "/landing/static/media/arrowRight.114fadc91aaba0104b6c.png",
+    "static/media/arrowLeft.png": "/landing/static/media/arrowLeft.862d772783280941e8c5.png",
+    "static/media/Roman.png": "/landing/static/media/Roman.af66e64a5f9077d3378c.png",
+    "static/media/AddButton.png": "/landing/static/media/AddButton.66696b027688e2d28218.png",
+    "static/media/delivery-image.png": "/landing/static/media/delivery-image.8f978ee03714823efe27.png",
+    "static/media/home-banner-background.png": "/landing/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Nutrition-Section.png": "/landing/static/media/Nutrition-Section.a3460d380d57e2379beb.png",
     "index.html": "/landing/index.html",
-    "main.0c55edb4.css.map": "/landing/static/css/main.0c55edb4.css.map",
-    "main.4719480a.js.map": "/landing/static/js/main.4719480a.js.map",
+    "main.d4bf0bf1.css.map": "/landing/static/css/main.d4bf0bf1.css.map",
+    "main.2476d5fe.js.map": "/landing/static/js/main.2476d5fe.js.map",
     "787.b643a9cc.chunk.js.map": "/landing/static/js/787.b643a9cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c55edb4.css",
-    "static/js/main.4719480a.js"
+    "static/css/main.d4bf0bf1.css",
+    "static/js/main.2476d5fe.js"
   ]
 }
